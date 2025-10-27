@@ -99,15 +99,4 @@ Access the application at: `http://localhost:5173/`
 ## ⚠️ Development Notes
 
 - CORS is currently configured to allow all origins (`CORS_ALLOW_ALL_ORIGINS = True`). This should be restricted in production.
-- Authentication is not implemented in this version.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License.
+- Authentication is not implemented in this version.s
